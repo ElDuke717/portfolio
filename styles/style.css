@@ -72,11 +72,10 @@
 }
 
 /*I'm experimenting with this little JS diddy, can't figure out how to format it right */
-#weather {
+.weather {
+  font-family: "Roboto", serif;
   text-align: center;
-  border: 10px
-  border-color: #00E2AC;
-  border-style: groove;
+  
 }
 
 .left-col h2 {
