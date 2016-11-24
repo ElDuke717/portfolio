@@ -71,6 +71,14 @@
   padding: 20px;
 }
 
+/*I'm experimenting with this little JS diddy, can't figure out how to format it right */
+#weather {
+  text-align: center;
+  border: 10px
+  border-color: #00E2AC;
+  border-style: groove;
+}
+
 .left-col h2 {
   margin-top: 0;
   margin-bottom: 0;
